@@ -1,0 +1,9 @@
+{
+  "name": "docker-lab-9",
+  "version": "1.0.0",
+  "description": "Experiment 9 - Dockerized Node.js app",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "license": "ISC",
+  "dependencies": { "express": "^4.19.2" }
+}
